@@ -1,7 +1,7 @@
 ### Welcome
 
--🔭 I’m currently working on bash scripts on Debian 
--🌱 I’m currently learning Entity Framework Core
+- 🔭 I’m currently working on bash scripts on Debian 
+- 🌱 I’m currently learning Entity Framework Core
 
 https://paulcolfer.ie 
 
