@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome
+
+🔭 I’m currently working on bash scripts on Debian 
+🌱 I’m currently learning Entity Framework Core
+
+https://paulcolfer.ie 
 
 <!--
 **paulcolfer/paulcolfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
